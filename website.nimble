@@ -4,7 +4,6 @@ version       = "0.1.0"
 author        = "ebahie"
 description   = "website"
 license       = "MIT"
-srcDir        = "src"
 bin           = @["website"]
 
 
